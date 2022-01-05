@@ -1,6 +1,6 @@
 <?xml version = "1.0" encoding = "UTF-8" ?>
 
-<catalog>
+<main>
     <section name="Dublin">
         <entry>
             <name>Vanessa</name>
@@ -48,4 +48,4 @@
             <birthDate>10/5/1986</birthDate>
         </entry>
     </section>
-</catalog>
+</main>
